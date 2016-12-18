@@ -1,0 +1,41 @@
+﻿Build started 18/12/2016 10:26:44 μμ.
+     1>Project "C:\Users\Nepenthe\documents\visual studio 2013\Projects\SDL First Try 2015 - July 10\SDL First Try 2015 - July 10\SDL First Try 2015 - July 10.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"E:\SDL minGW\include\SDL2" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt EngineCircle.cpp EngineCollider.cpp EngineColor.cpp EngineFont.cpp EngineMath.cpp EngineObject.cpp EnginePhysics.cpp EnginePolygon.cpp EngineRenderer.cpp EngineShape.cpp EngineTimer.cpp EngineWindow.cpp Event.cpp main.cpp
+         Skipping... (no relevant changes detected)
+         main.cpp
+         Event.cpp
+         EngineWindow.cpp
+         EngineTimer.cpp
+         EngineShape.cpp
+         EngineRenderer.cpp
+         EnginePolygon.cpp
+         EnginePhysics.cpp
+         EngineObject.cpp
+         EngineMath.cpp
+         EngineFont.cpp
+         EngineColor.cpp
+         EngineCollider.cpp
+         EngineCircle.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nepenthe\documents\visual studio 2013\Projects\SDL First Try 2015 - July 10\Debug\SDL First Try 2015 - July 10.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\SDL minGW\lib" SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib SDL2_mixer.lib SDL2_net.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Nepenthe\documents\visual studio 2013\Projects\SDL First Try 2015 - July 10\Debug\SDL First Try 2015 - July 10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Nepenthe\documents\visual studio 2013\Projects\SDL First Try 2015 - July 10\Debug\SDL First Try 2015 - July 10.lib" /MACHINE:X86 Debug\EngineCircle.obj
+         Debug\EngineCollider.obj
+         Debug\EngineColor.obj
+         Debug\EngineFont.obj
+         Debug\EngineMath.obj
+         Debug\EngineObject.obj
+         Debug\EnginePhysics.obj
+         Debug\EnginePolygon.obj
+         Debug\EngineRenderer.obj
+         Debug\EngineShape.obj
+         Debug\EngineTimer.obj
+         Debug\EngineWindow.obj
+         Debug\Event.obj
+         Debug\main.obj
+         Debug\Texture.obj
+         SDL First Try 2015 - July 10.vcxproj -> C:\Users\Nepenthe\documents\visual studio 2013\Projects\SDL First Try 2015 - July 10\Debug\SDL First Try 2015 - July 10.exe
+     1>Done Building Project "C:\Users\Nepenthe\documents\visual studio 2013\Projects\SDL First Try 2015 - July 10\SDL First Try 2015 - July 10\SDL First Try 2015 - July 10.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.97
